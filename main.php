@@ -1,7 +1,7 @@
 <?php
 	require('header.php');
 ?>
-  <div class = "container" style="height:60%;">
+  <div class = "container">
 	
 	<div id = "topFive">
 		Rank Top Five

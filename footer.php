@@ -1,5 +1,5 @@
-<footer style="height:15%; background-color:gray;">
-
-</footer>
-</body>
+		<footer>
+			<h3 class="textfooter">Product By HIPBOBO and PANDANEEN</h3>
+		</footer>
+	</body>
 </html>

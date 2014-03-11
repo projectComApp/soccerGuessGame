@@ -1,13 +1,36 @@
-
-#user{
-	float:right;
+header{
+	height: 20%;
+	background-position:50% 50%;
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
-#topFive{
-	float: right;
-	clear: right;
+
+body {
+	background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+footer{
+	height:15%;
+	background-color:#052F4B;
+	text-align:center;
+	margin-top:20%;
+	color:#D91A1A;
+}
+
+.textfooter{
+	padding-top: 2.5%;
+}
+
+.menu{
+	height: 5%;
+}
+
+.logo{
+	width:8%;
 	
 }
-#pic1{
-width: 100;
-hight: 800;
+
+.button{
+	float:right;
 }
